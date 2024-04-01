@@ -57,7 +57,14 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 
 - [ MPT-Instruct-30B Model Training Guide: Unleashing AI's Potential ](/Akhil-Personal-Blog/posts/mpt_instruct_30b_model_training)
   Discover the secrets of training the MPT-Instruct-30B model, the colossal AI that's shaping the future of machine learning. Learn tips, tricks, and best practices in our comprehensive guide.
-    
+
+- [ Understanding the Voice GPT Project: A Technical Exploration ](/Akhil-Personal-Blog/posts/voice_gpt_project_explained)
+  This blog post delves into the technicalities of the Voice GPT project, breaking down the code and its functionalities to provide a comprehensive understanding of voice processing in AI.
+
+- [ Decoding RAG LangChain Tutorial: A Deep Dive into AI-Driven QA Systems ](/Akhil-Personal-Blog/posts/rag_langchain_tutorial)
+  The RAG (Retrieval-Augmented Generation) LangChain Tutorial encapsulates a sophisticated approach to transforming unstructured data into a structured Question and Answer (QA) chain. Leveraging the power of AI and machine learning, this tutorial illustrates a pipeline that converts raw data into insightful answers, ready for multi-turn conversations. Let's embark on a detailed exploration of this tutorial, elucidating each code block and its significance in the QA generation process.
+
+
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
