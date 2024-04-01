@@ -51,7 +51,13 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 
 - [ Mastering Stable Vicuna13B on Colab: A Comprehensive 8-bit Implementation Guide ](/Akhil-Personal-Blog/posts/master_stable_vicuna13b_colab_8bit)
   Unlock the potential of Stable Vicuna13B in Google Colab with an 8-bit implementation, detailed setup, and execution guide, ensuring smooth and efficient model interaction.
-  
+
+- [ Unleashing AI Power: Setting Up Auto GPT in Google Colab ](/Akhil-Personal-Blog/posts/setting_up_auto_gpt_in_google_colab)
+  Step into the future of AI with our detailed guide on setting up Auto GPT in Google Colab. Discover how to automate your AI workflows efficiently and effortlessly.
+
+- [ MPT-Instruct-30B Model Training Guide: Unleashing AI's Potential ](/Akhil-Personal-Blog/posts/mpt_instruct_30b_model_training)
+  Discover the secrets of training the MPT-Instruct-30B model, the colossal AI that's shaping the future of machine learning. Learn tips, tricks, and best practices in our comprehensive guide.
+    
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
