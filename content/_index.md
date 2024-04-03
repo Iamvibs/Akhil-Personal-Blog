@@ -64,6 +64,15 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ Decoding RAG LangChain Tutorial: A Deep Dive into AI-Driven QA Systems ](/Akhil-Personal-Blog/posts/rag_langchain_tutorial)
   The RAG (Retrieval-Augmented Generation) LangChain Tutorial encapsulates a sophisticated approach to transforming unstructured data into a structured Question and Answer (QA) chain. Leveraging the power of AI and machine learning, this tutorial illustrates a pipeline that converts raw data into insightful answers, ready for multi-turn conversations. Let's embark on a detailed exploration of this tutorial, elucidating each code block and its significance in the QA generation process.
 
+- [ Decoding RAG LangChain Tutorial: A Deep Dive into AI-Driven QA Systems ](/Akhil-Personal-Blog/posts/rag_langchain_tutorial)
+  The RAG (Retrieval-Augmented Generation) LangChain Tutorial encapsulates a sophisticated approach to transforming unstructured data into a structured Question and Answer (QA) chain. Leveraging the power of AI and machine learning, this tutorial illustrates a pipeline that converts raw data into insightful answers, ready for multi-turn conversations. Let's embark on a detailed exploration of this tutorial, elucidating each code block and its significance in the QA generation process.
+
+- [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
+  Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
+
+- [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
+  Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
+
 
 [More Posts](/Akhil-Personal-Blog/posts/)
 
