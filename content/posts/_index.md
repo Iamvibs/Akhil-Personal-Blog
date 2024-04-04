@@ -60,6 +60,11 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ Decoding RAG LangChain Tutorial: A Deep Dive into AI-Driven QA Systems ](/Akhil-Personal-Blog/posts/rag_langchain_tutorial)
   The RAG (Retrieval-Augmented Generation) LangChain Tutorial encapsulates a sophisticated approach to transforming unstructured data into a structured Question and Answer (QA) chain. Leveraging the power of AI and machine learning, this tutorial illustrates a pipeline that converts raw data into insightful answers, ready for multi-turn conversations. Let's embark on a detailed exploration of this tutorial, elucidating each code block and its significance in the QA generation process.
 
+### [ Mastering Face Recognition with Python: A Step-by-Step Guide ](/Akhil-Personal-Blog/posts/mastering_face_recognition_python)
+  Unlock the power of face recognition technology using Python with our in-depth guide. From coding to implementation, learn everything you need to create a sophisticated face recognition system.
+
+### [ How to Build an AI NSFW Content Checker with Python ](/Akhil-Personal-Blog/posts/ai_nsfw_content_checker_python)
+  This blog post explores the step-by-step process of building an AI NSFW Content Checker, leveraging Python, Streamlit, and the OpenNSFW2 library, to analyze and rate images for potentially inappropriate content.
 
 ## Dive Deeper
 

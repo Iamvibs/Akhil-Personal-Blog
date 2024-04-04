@@ -73,6 +73,14 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
   Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
 
+- [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
+  Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
+
+- [ Mastering Face Recognition with Python: A Step-by-Step Guide ](/Akhil-Personal-Blog/posts/mastering_face_recognition_python)
+  Unlock the power of face recognition technology using Python with our in-depth guide. From coding to implementation, learn everything you need to create a sophisticated face recognition system.
+
+- [ How to Build an AI NSFW Content Checker with Python ](/Akhil-Personal-Blog/posts/ai_nsfw_content_checker_python)
+  This blog post explores the step-by-step process of building an AI NSFW Content Checker, leveraging Python, Streamlit, and the OpenNSFW2 library, to analyze and rate images for potentially inappropriate content.
 
 [More Posts](/Akhil-Personal-Blog/posts/)
 
