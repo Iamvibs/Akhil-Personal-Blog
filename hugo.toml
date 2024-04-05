@@ -1,4 +1,4 @@
-baseURL = 'https://akhil.sh/blogs/'
+baseURL = 'https://www.akhil.sh/blogs/'
 languageCode = 'en-us'
 title = 'Akhil Personal Blog'
 theme = 'hextra'
