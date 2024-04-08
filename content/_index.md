@@ -6,10 +6,9 @@ draft = false
 
 # Akhil's Personal Blog
 
-## Welcome to My World of AI and Cybersecurity
+## I write about AI and Cybersecurity
 
-
-Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep into the realms of Artificial Intelligence (AI) and Cybersecurity. Here, I share my projects, insights, and the latest trends that are shaping the future of these exciting fields.
+On this blog you'll find some cool content and projects for Cybersecurity and AI. A great learning resource, make sure to bookmark this.
 
 
 ## Blog Posts
@@ -81,6 +80,12 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 
 - [ How to Build an AI NSFW Content Checker with Python ](/Akhil-Personal-Blog/posts/ai_nsfw_content_checker_python)
   This blog post explores the step-by-step process of building an AI NSFW Content Checker, leveraging Python, Streamlit, and the OpenNSFW2 library, to analyze and rate images for potentially inappropriate content.
+
+- [ Efficient Training of Large Language Models with LoRA and Hugging Face ](/Akhil-Personal-Blog/posts/efficient_training_lora_hugging_face)
+  This blog delves into the efficient training of large language models leveraging LoRA and Hugging Face, offering a comprehensive guide with code snippets to optimize your machine learning workflows.
+
+- [ Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face ](/Akhil-Personal-Blog/posts/mastering_gpt_neo_x_20b_training_bnb2bit_hugging_face)
+  Dive into the world of GPT-Neo-X-20B training using bnb2bit precision on Hugging Face, featuring detailed explanations and code examples to optimize your AI model training.
 
 [More Posts](/Akhil-Personal-Blog/posts/)
 
