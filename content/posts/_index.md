@@ -69,6 +69,12 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ Efficient Training of Large Language Models with LoRA and Hugging Face ](/Akhil-Personal-Blog/posts/efficient_training_lora_hugging_face)
   This blog delves into the efficient training of large language models leveraging LoRA and Hugging Face, offering a comprehensive guide with code snippets to optimize your machine learning workflows.
 
+### [ Fine-tuning Microsoft Phi 1.5b on Custom Dataset with DialogStudio ](/Akhil-Personal-Blog/posts/fine_tuning_microsoft_phi_1_5b_custom_dataset_dialogstudio)
+  Dive into fine-tuning Microsoft's Phi 1.5b model on a custom dataset using DialogStudio, showcasing detailed procedures, code explanations, and best practices for effective model training.
+
+### [ Building a Healthcare BOT with Mixtral and Haystack on PubMed Data ](/Akhil-Personal-Blog/posts/healthcare_bot_mixtral_haystack_pubmed)
+  Explore the creation of a Healthcare BOT utilizing Mixtral and Haystack, integrated with PubMed data, to deliver precise medical information and insights through advanced AI techniques.
+
 ## Dive Deeper
 
 Our blog is just the beginning. We encourage you to engage with our content, share your thoughts, and contribute to the conversation. Each post is an invitation to learn more and join a community dedicated to advancing the state of cybersecurity in an AI-driven world.

@@ -87,6 +87,12 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ Mastering GPT Neo X 20B Training with bnb2bit on Hugging Face ](/Akhil-Personal-Blog/posts/mastering_gpt_neo_x_20b_training_bnb2bit_hugging_face)
   Dive into the world of GPT-Neo-X-20B training using bnb2bit precision on Hugging Face, featuring detailed explanations and code examples to optimize your AI model training.
 
+- [ Fine-tuning Microsoft Phi 1.5b on Custom Dataset with DialogStudio ](/Akhil-Personal-Blog/posts/fine_tuning_microsoft_phi_1_5b_custom_dataset_dialogstudio)
+  Dive into fine-tuning Microsoft's Phi 1.5b model on a custom dataset using DialogStudio, showcasing detailed procedures, code explanations, and best practices for effective model training.
+
+- [ Building a Healthcare BOT with Mixtral and Haystack on PubMed Data ](/Akhil-Personal-Blog/posts/healthcare_bot_mixtral_haystack_pubmed)
+  Explore the creation of a Healthcare BOT utilizing Mixtral and Haystack, integrated with PubMed data, to deliver precise medical information and insights through advanced AI techniques.
+
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
