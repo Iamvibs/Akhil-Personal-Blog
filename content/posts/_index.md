@@ -66,6 +66,9 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ How to Build an AI NSFW Content Checker with Python ](/Akhil-Personal-Blog/posts/ai_nsfw_content_checker_python)
   This blog post explores the step-by-step process of building an AI NSFW Content Checker, leveraging Python, Streamlit, and the OpenNSFW2 library, to analyze and rate images for potentially inappropriate content.
 
+### [ Efficient Training of Large Language Models with LoRA and Hugging Face ](/Akhil-Personal-Blog/posts/efficient_training_lora_hugging_face)
+  This blog delves into the efficient training of large language models leveraging LoRA and Hugging Face, offering a comprehensive guide with code snippets to optimize your machine learning workflows.
+
 ## Dive Deeper
 
 Our blog is just the beginning. We encourage you to engage with our content, share your thoughts, and contribute to the conversation. Each post is an invitation to learn more and join a community dedicated to advancing the state of cybersecurity in an AI-driven world.
