@@ -75,6 +75,18 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ Building a Healthcare BOT with Mixtral and Haystack on PubMed Data ](/Akhil-Personal-Blog/posts/healthcare_bot_mixtral_haystack_pubmed)
   Explore the creation of a Healthcare BOT utilizing Mixtral and Haystack, integrated with PubMed data, to deliver precise medical information and insights through advanced AI techniques.
 
+### [ Enhancing Text to SQL Conversion with Semantic Search: A Deep Dive into Mixtral and Pinecone ](/Akhil-Personal-Blog/posts/semantic_search_text_sql_mixtral_pinecone)
+  Discover how Mixtral and Pinecone can revolutionize Text to SQL conversion through semantic search, offering a comprehensive guide with practical code examples.
+
+### [ Guanaco Chatbot Demo: Leveraging the Power of LLaMA-7B for Advanced Conversations ](/Akhil-Personal-Blog/posts/guanaco_chatbot_demo_llama_7b_model)
+  Dive into the world of sophisticated AI with our Guanaco Chatbot Demo, featuring the cutting-edge LLaMA-7B model. Discover how this technology is revolutionizing chatbot interactions.
+
+### [ Unlocking Language Barriers in Coding: The Power of Code Translate AI ](/Akhil-Personal-Blog/posts/code_translate_ai_unlocking_language_barriers)
+  Dive into the transformative world of Code Translate AI, where the barriers between programming languages dissolve, enabling seamless code translation and cross-platform development.
+
+### [ Repo Chat: Revolutionizing Interaction with GitHub Repositories through AIs ](/Akhil-Personal-Blog/posts/repo_chat_ai_github)
+  Discover how Repo Chat leverages AI to transform the way we interact with GitHub repositories, allowing for dynamic conversations and insightful code exploration directly from your chat interface.
+
 ## Dive Deeper
 
 Our blog is just the beginning. We encourage you to engage with our content, share your thoughts, and contribute to the conversation. Each post is an invitation to learn more and join a community dedicated to advancing the state of cybersecurity in an AI-driven world.
