@@ -87,6 +87,13 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ Repo Chat: Revolutionizing Interaction with GitHub Repositories through AIs ](/Akhil-Personal-Blog/posts/repo_chat_ai_github)
   Discover how Repo Chat leverages AI to transform the way we interact with GitHub repositories, allowing for dynamic conversations and insightful code exploration directly from your chat interface.
 
+### [ Chatbots with RAG: How to Build Your Own Intelligent Assistant ](/Akhil-Personal-Blog/posts/chatbots_with_rag_building_guide)
+  Dive into the technical aspects of building a chatbot using the RAG (Retrieval Augmented Generation) technique with LangChain and OpenAI. This detailed guide provides code explanations and practical steps to launch your project.
+
+### [ MPT-30B Chatbot with LangChain: A Comprehensive Guide to Building Advanced Conversational AI ](/Akhil-Personal-Blog/posts/mpt_30b_chatbot_with_langchain_advanced_guide)
+  Embark on a journey to develop a sophisticated conversational AI using MPT-30B and LangChain. This guide offers thorough explanations of the setup, code, and integration steps necessary for creating an engaging AI chatbot.
+
+
 ## Dive Deeper
 
 Our blog is just the beginning. We encourage you to engage with our content, share your thoughts, and contribute to the conversation. Each post is an invitation to learn more and join a community dedicated to advancing the state of cybersecurity in an AI-driven world.

@@ -69,11 +69,6 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
   Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
 
-- [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
-  Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
-
-- [ Conways game of life ](/Akhil-Personal-Blog/posts/conway_game_life_python)
-  Conway's Game of Life is a classic example of emergent complexity in a simple system. In this blog post, we explore the rules of the game, its implementation in Python, and the mesmerizing patterns that emerge as cells evolve over generations. Join us as we uncover the beauty of cellular automata in Conway's Game of Life.
 
 - [ Mastering Face Recognition with Python: A Step-by-Step Guide ](/Akhil-Personal-Blog/posts/mastering_face_recognition_python)
   Unlock the power of face recognition technology using Python with our in-depth guide. From coding to implementation, learn everything you need to create a sophisticated face recognition system.
@@ -104,7 +99,13 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 
 - [ Repo Chat: Revolutionizing Interaction with GitHub Repositories through AIs ](/Akhil-Personal-Blog/posts/repo_chat_ai_github)
   Discover how Repo Chat leverages AI to transform the way we interact with GitHub repositories, allowing for dynamic conversations and insightful code exploration directly from your chat interface.
-  
+
+- [ Chatbots with RAG: How to Build Your Own Intelligent Assistant ](/Akhil-Personal-Blog/posts/chatbots_with_rag_building_guide)
+  Dive into the technical aspects of building a chatbot using the RAG (Retrieval Augmented Generation) technique with LangChain and OpenAI. This detailed guide provides code explanations and practical steps to launch your project.
+
+- [ MPT-30B Chatbot with LangChain: A Comprehensive Guide to Building Advanced Conversational AI ](/Akhil-Personal-Blog/posts/mpt_30b_chatbot_with_langchain_advanced_guide)
+  Embark on a journey to develop a sophisticated conversational AI using MPT-30B and LangChain. This guide offers thorough explanations of the setup, code, and integration steps necessary for creating an engaging AI chatbot.
+
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
