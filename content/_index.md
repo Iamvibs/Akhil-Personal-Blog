@@ -106,6 +106,19 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ MPT-30B Chatbot with LangChain: A Comprehensive Guide to Building Advanced Conversational AI ](/Akhil-Personal-Blog/posts/mpt_30b_chatbot_with_langchain_advanced_guide)
   Embark on a journey to develop a sophisticated conversational AI using MPT-30B and LangChain. This guide offers thorough explanations of the setup, code, and integration steps necessary for creating an engaging AI chatbot.
 
+- [ Reinforcement Learning with Human Feedback: Building a Custom Dataset for Any Model ](/Akhil-Personal-Blog/posts/RLHF_training_custom_dataset_any_model)
+  This blog post walks you through the process of setting up a project using RLHF with a custom dataset, providing an in-depth explanation of each line of code and how to use the project effectively.
+
+- [ Finetuning Mistral-7b FineTuning Model using Autotrain-advanced ](/Akhil-Personal-Blog/posts/finetuning_mistral_7b_autotrain_advanced)
+  This blog post provides a detailed tutorial on how to finetune the Mistral-7b FineTuning Model using Autotrain-advanced, including a walkthrough of each line of code and instructions on how to deploy the project.
+
+- [ Creating a Vision-Text Transformer with Idefics-9b: A Step-by-Step Guide ](/Akhil-Personal-Blog/posts/idefics_9b_bot_guide)
+  Learn how to create and use the Idefics-9b bot for processing vision and text data with our comprehensive tutorial, perfect for developers interested in AI and machine learning.
+
+- [ How to Build an Automated Web Scraping Tool with Python ](/Akhil-Personal-Blog/posts/automated_web_scraping_python_guide)
+  This blog provides a comprehensive guide to building your own automated web scraping tool using Python, covering each line of code and its purpose, and teaching you how to effectively use the tool to scrape and summarize web content.
+
+
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
