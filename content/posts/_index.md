@@ -105,6 +105,12 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 ### [ How to Build an Automated Web Scraping Tool with Python ](/Akhil-Personal-Blog/posts/automated_web_scraping_python_guide)
   This blog provides a comprehensive guide to building your own automated web scraping tool using Python, covering each line of code and its purpose, and teaching you how to effectively use the tool to scrape and summarize web content.
 
+### [ Ludwig: Fine-Tuning for Llama2-7b - A Step-by-Step Guide ](/Akhil-Personal-Blog/posts/ludwig_fine_tuning_llama2_7b)
+  This blog walks you through the process of fine-tuning the powerful Llama2-7b model using Ludwig. Learn how to prepare your coding environment, analyze the code, and utilize the model effectively.
+
+### [ Master MNIST Image Classification with Ludwig ](/Akhil-Personal-Blog/posts/mnist_image_classification_ludwig)
+  Unlock the potential of Ludwig for image classification with our in-depth guide. Learn how to efficiently train and test your model on the MNIST dataset using Ludwig’s powerful features.
+
 
 
 ## Dive Deeper
