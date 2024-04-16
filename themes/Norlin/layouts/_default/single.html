@@ -8,7 +8,7 @@
       {{ if .Params.image }}
       <div class="col col-6 col-t-12">
         <div class="image-box">
-          <img class="post-image" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+          <img class="post-image" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
         </div>
       </div>
       {{ end }}
