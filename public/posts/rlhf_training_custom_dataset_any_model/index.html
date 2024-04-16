@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="/Akhil-Personal-Blog/favicon.ico">
 
   <title>Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model | Akhil Personal Blog</title>
   <meta name="description" content="">
@@ -16,12 +16,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model | Akhil Personal Blog">
   <meta name="twitter:description" content="Reinforcement Learning with Human Feedback (RLHF) is a powerful technique in machine learning that combines the strengths of supervised learning with reinforcement learning. It enables models to learn from both structured data and iterative feedback, enhancing their predictive accuracy and adaptability. In this guide, we&rsquo;ll take you through setting up RLHF for any model using a custom dataset. By the end of this post, you&rsquo;ll know how to configure, train, and deploy your model efficiently.">
-  <meta name="twitter:image" content="http://localhost:1313/">
+  <meta name="twitter:image" content="https://akhilsharma90.github.io/Akhil-Personal-Blog/">
 
   
   <meta property="og:title" content="Reinforcement Learning with Human Feedback Building a Custom Dataset for Any Model | Akhil Personal Blog">
   <meta property="og:description" content="Reinforcement Learning with Human Feedback (RLHF) is a powerful technique in machine learning that combines the strengths of supervised learning with reinforcement learning. It enables models to learn from both structured data and iterative feedback, enhancing their predictive accuracy and adaptability. In this guide, we&rsquo;ll take you through setting up RLHF for any model using a custom dataset. By the end of this post, you&rsquo;ll know how to configure, train, and deploy your model efficiently.">
-  <meta property="og:image" content="http://localhost:1313/">
+  <meta property="og:image" content="https://akhilsharma90.github.io/Akhil-Personal-Blog/">
 
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,7 +52,7 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link" href="http://localhost:1313/">
+          <a class="logo__link" href="https://akhilsharma90.github.io/Akhil-Personal-Blog/">
             
               Akhil Personal Blog
             
@@ -72,19 +72,19 @@
                     <ul class="nav__list list-reset">
                       
                       <li class="nav__item">
-                        <a href="/" class="nav__link">Home</a>
+                        <a href="/Akhil-Personal-Blog/" class="nav__link">Home</a>
                       </li>
                       
                       <li class="nav__item">
-                        <a href="/about" class="nav__link">About</a>
+                        <a href="/Akhil-Personal-Blog/about" class="nav__link">About</a>
                       </li>
                       
                       <li class="nav__item">
-                        <a href="/contact" class="nav__link">Contact Me</a>
+                        <a href="/Akhil-Personal-Blog/contact" class="nav__link">Contact Me</a>
                       </li>
                       
                       <li class="nav__item">
-                        <a href="/styleguide" class="nav__link">Style Guide</a>
+                        <a href="/Akhil-Personal-Blog/styleguide" class="nav__link">Style Guide</a>
                       </li>
                       
                     </ul>
@@ -100,19 +100,19 @@
             <ul class="nav__list list-reset">
               
               <li class="nav__item">
-                <a href="/" class="nav__link">Home</a>
+                <a href="/Akhil-Personal-Blog/" class="nav__link">Home</a>
               </li>
               
               <li class="nav__item">
-                <a href="/about" class="nav__link">About</a>
+                <a href="/Akhil-Personal-Blog/about" class="nav__link">About</a>
               </li>
               
               <li class="nav__item">
-                <a href="/contact" class="nav__link">Contact Me</a>
+                <a href="/Akhil-Personal-Blog/contact" class="nav__link">Contact Me</a>
               </li>
               
               <li class="nav__item">
-                <a href="/styleguide" class="nav__link">Style Guide</a>
+                <a href="/Akhil-Personal-Blog/styleguide" class="nav__link">Style Guide</a>
               </li>
               
             </ul>
@@ -179,7 +179,7 @@
 
             <div class="post__author">
               <a href="/about/" aria-label="Robert Wilson">
-                <img class="article__author-image lazy" data-src="http://localhost:1313/images/15.jpg" alt="Robert Wilson's Picture">
+                <img class="article__author-image lazy" data-src="https://akhilsharma90.github.io/images/15.jpg" alt="Robert Wilson's Picture">
               </a>
             </div>
 
@@ -281,14 +281,14 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
 
     <div class="post__share">
   <div class="share__list">
-    <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fposts%2frlhf_training_custom_dataset_any_model%2f"
+    <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fakhilsharma90.github.io%2fAkhil-Personal-Blog%2fposts%2frlhf_training_custom_dataset_any_model%2f"
       onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
       title="Share on Facebook" rel="nofollow"><i class="fa-brands fa-square-facebook"></i></a>
 
-    <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Reinforcement%20Learning%20with%20Human%20Feedback%20Building%20a%20Custom%20Dataset%20for%20Any%20Model&url=http%3a%2f%2flocalhost%3a1313%2fposts%2frlhf_training_custom_dataset_any_model%2f" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i></a>
+    <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Reinforcement%20Learning%20with%20Human%20Feedback%20Building%20a%20Custom%20Dataset%20for%20Any%20Model&url=https%3a%2f%2fakhilsharma90.github.io%2fAkhil-Personal-Blog%2fposts%2frlhf_training_custom_dataset_any_model%2f" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i></a>
 
     <a class="share__link share__pinterest"
-      href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2flocalhost%3a1313%2fposts%2frlhf_training_custom_dataset_any_model%2f&amp;media=http%3a%2f%2flocalhost%3a1313%2f&amp;description=Reinforcement%20Learning%20with%20Human%20Feedback%20Building%20a%20Custom%20Dataset%20for%20Any%20Model"
+      href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fakhilsharma90.github.io%2fAkhil-Personal-Blog%2fposts%2frlhf_training_custom_dataset_any_model%2f&amp;media=https%3a%2f%2fakhilsharma90.github.io%2fAkhil-Personal-Blog%2f&amp;description=Reinforcement%20Learning%20with%20Human%20Feedback%20Building%20a%20Custom%20Dataset%20for%20Any%20Model"
       onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
       title="Share on Pinterest" aria-label="Share on Pinterest"><i class="fa-brands fa-pinterest"></i></a>
   </div>
@@ -297,7 +297,7 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
     
     <div class="post__navigation">
       
-      <a class="prev" href="http://localhost:1313/posts/repo_chat_ai_github/" style="background-image: url('')">
+      <a class="prev" href="https://akhilsharma90.github.io/Akhil-Personal-Blog/posts/repo_chat_ai_github/" style="background-image: url('')">
         <div class="post__nav-box">
           <div class="post__nav post__nav__prev"><i class="fa-solid fa-arrow-left"></i> Prev
             Page</div>
@@ -306,7 +306,7 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
       </a>
       
       
-      <a class="next" href="http://localhost:1313/posts/mpt_30b_chatbot_with_langchain_advanced_guide/" style="background-image: url('')">
+      <a class="next" href="https://akhilsharma90.github.io/Akhil-Personal-Blog/posts/mpt_30b_chatbot_with_langchain_advanced_guide/" style="background-image: url('')">
         <div class="post__nav-box">
           <div class="post__nav post__nav__next">Next Page <i class="fa-solid fa-arrow-right"></i></div>
           <h4 class="post__nav__title">MPT-30B Chatbot with LangChain A Comprehensive Guide to Building Advanced Conversational AI</h4>
@@ -401,12 +401,12 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
           <time class="article__date" datetime=" 2024-02-02T18:31:22&#43;05:30">Feb 2, 2024</time>
         </div>
 
-        <h4 class="recent-posts__title"><a href="/posts/bitcoin_price_prediction_svm_python_guide/">Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</a></h4>
+        <h4 class="recent-posts__title"><a href="/Akhil-Personal-Blog/posts/bitcoin_price_prediction_svm_python_guide/">Bitcoin Price Prediction A Detailed Guide with Support Vector Machine in Python</a></h4>
 
         <div class="article__bottom">
           <div class="article__author">
             <a href="/about/" aria-label="Robert Wilson">
-              <img class="article__author-image lazy" data-src="http://localhost:1313/images/15.jpg" alt="Robert Wilson's Picture">
+              <img class="article__author-image lazy" data-src="https://akhilsharma90.github.io/images/15.jpg" alt="Robert Wilson's Picture">
             </a>
           </div>
           <div class="article__bottom-meta">
@@ -428,12 +428,12 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
           <time class="article__date" datetime=" 2024-02-02T18:31:22&#43;05:30">Feb 2, 2024</time>
         </div>
 
-        <h4 class="recent-posts__title"><a href="/posts/healthcare_bot_mixtral_haystack_pubmed/">Building a Healthcare BOT with Mixtral and Haystack on PubMed Data</a></h4>
+        <h4 class="recent-posts__title"><a href="/Akhil-Personal-Blog/posts/healthcare_bot_mixtral_haystack_pubmed/">Building a Healthcare BOT with Mixtral and Haystack on PubMed Data</a></h4>
 
         <div class="article__bottom">
           <div class="article__author">
             <a href="/about/" aria-label="Robert Wilson">
-              <img class="article__author-image lazy" data-src="http://localhost:1313/images/15.jpg" alt="Robert Wilson's Picture">
+              <img class="article__author-image lazy" data-src="https://akhilsharma90.github.io/images/15.jpg" alt="Robert Wilson's Picture">
             </a>
           </div>
           <div class="article__bottom-meta">
@@ -456,27 +456,27 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
     
       
         
-        <a href="/tags/business">Business</a>
+        <a href="/Akhil-Personal-Blog/tags/business">Business</a>
         
-        <a href="/tags/fashion">Fashion</a>
+        <a href="/Akhil-Personal-Blog/tags/fashion">Fashion</a>
         
-        <a href="/tags/life">Life</a>
+        <a href="/Akhil-Personal-Blog/tags/life">Life</a>
         
-        <a href="/tags/lifestyle">Lifestyle</a>
+        <a href="/Akhil-Personal-Blog/tags/lifestyle">Lifestyle</a>
         
-        <a href="/tags/nature">Nature</a>
+        <a href="/Akhil-Personal-Blog/tags/nature">Nature</a>
         
-        <a href="/tags/notes">Notes</a>
+        <a href="/Akhil-Personal-Blog/tags/notes">Notes</a>
         
-        <a href="/tags/rest">Rest</a>
+        <a href="/Akhil-Personal-Blog/tags/rest">Rest</a>
         
-        <a href="/tags/story">Story</a>
+        <a href="/Akhil-Personal-Blog/tags/story">Story</a>
         
-        <a href="/tags/technology">Technology</a>
+        <a href="/Akhil-Personal-Blog/tags/technology">Technology</a>
         
-        <a href="/tags/travels">Travels</a>
+        <a href="/Akhil-Personal-Blog/tags/travels">Travels</a>
         
-        <a href="/tags/work">Work</a>
+        <a href="/Akhil-Personal-Blog/tags/work">Work</a>
         
       
     
@@ -578,8 +578,8 @@ Implementing RLHF with a custom dataset is a robust way to enhance your models&r
 
 
 
-<script src="http://localhost:1313/js/scripts.js"></script>
-<script src="http://localhost:1313/js/common.js"></script>
+<script src="/Akhil-Personal-Blog/js/scripts.min.d180205ba07f892d0386a5c069b57e8b33346a3ad997bc5c4b15a7a915f951c2.js"></script>
+<script src="/Akhil-Personal-Blog/js/common.min.361774ff9b023e435c635f4c24290719e26a4a2571e6282f55fd61e123c64ea6.js"></script>
 
 
 </body>
