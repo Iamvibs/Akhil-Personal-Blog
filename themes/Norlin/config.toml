@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "http://akhil.sh/blogs"
 languageCode = "en-us"
 title = "Norlin"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
